@@ -3,3 +3,7 @@
 /build/
 /application/
 .DS_Store
+v1/desktop.ini
+v2/desktop.ini
+other-versions/desktop.ini
+*.ini
