@@ -2,6 +2,7 @@
 /node_modules/
 /build/
 /application/
+/_notes/
 .DS_Store
 v1/desktop.ini
 v2/desktop.ini
